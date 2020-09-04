@@ -4,23 +4,18 @@ An numerical solution to space-like geodesics of the Schwarzschild Solution
 Tenemos la siguiente ecuación
 
 <img src="https://render.githubusercontent.com/render/math?math=u''%2Bu-3\dfrac{r_g}{2}u^2=\dfrac{1}{\lambda}">
-$u''+u-3\dfrac{r_g}{2}u^2=\dfrac{1}{\lambda}$
-
 
 Esta ecuación diferencial de segundo orden se puede expresar como dos ecuaciones de primer orden.
 
-sea $`u'(t)=y(t)`$ entonces tenemos que 
-$$
-y'=\dfrac{1}{\lambda}-u+3\dfrac{r_g}{2}u^2
-$$
- entonces
+sea <img src="https://render.githubusercontent.com/render/math?math=u'(t)=y(t)"> entonces tenemos que 
 
+<img src="https://render.githubusercontent.com/render/math?math=y'=\dfrac{1}{\lambda}-u%2B3\dfrac{r_g}{2}u^2">
 
+entonces
 
-
-$$
+\begin{equation}
 y_{n+1}=y_n+\dfrac{1}{6}\left(l_0+2l_1+2l_2+l_3\right)
-$$
+\end{equation}
 
 $$
 l_0=h\left(\dfrac{1}{\lambda}-u_n+3\dfrac{r_g}{2}u_n^2\right)
@@ -57,10 +52,4 @@ $$
 $$
 u_{n+1}=u_n\frac{1}{6}\left(k_0+2k_1+2k_2+k_3\right)
 $$
-This math is inline $`a^2+b^2=c^2`$.
 
-This is on a separate line
-
-```math
-a^2+b^2=c^2
-```

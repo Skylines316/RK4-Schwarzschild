@@ -1,11 +1,8 @@
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
 # RK4-Schwarzschild
 An numerical solution to space-like geodesics of the Schwarzschild Solution
 
 Tenemos la siguiente ecuación
-$$
-u''+u-3\dfrac{r_g}{2}u^2=\dfrac{1}{\lambda}
-$$
+$u''+u-3\dfrac{r_g}{2}u^2=\dfrac{1}{\lambda}$
 Esta ecuación diferencial de segundo orden se puede expresar como dos ecuaciones de primer orden.
 
 sea $u'(t)=y(t)$ entonces tenemos que 

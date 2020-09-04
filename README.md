@@ -53,4 +53,10 @@ $$
 $$
 u_{n+1}=u_n\frac{1}{6}\left(k_0+2k_1+2k_2+k_3\right)
 $$
+This math is inline $`a^2+b^2=c^2`$.
 
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```

@@ -5,7 +5,7 @@ Tenemos la siguiente ecuación
 $u''+u-3\dfrac{r_g}{2}u^2=\dfrac{1}{\lambda}$
 Esta ecuación diferencial de segundo orden se puede expresar como dos ecuaciones de primer orden.
 
-sea $u'(t)=y(t)$ entonces tenemos que 
+sea $`u'(t)=y(t)`$ entonces tenemos que 
 $$
 y'=\dfrac{1}{\lambda}-u+3\dfrac{r_g}{2}u^2
 $$

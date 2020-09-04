@@ -13,10 +13,10 @@ sea <img src="https://render.githubusercontent.com/render/math?math=u'(t)=y(t)">
 
 entonces
 
-<img src="https://render.githubusercontent.com/render/math?math=y_{n+1}=y_n+\dfrac{1}{6}\left(l_0+2l_1+2l_2+l_3\right)">
+<img src="https://render.githubusercontent.com/render/math?math=y_{n%2B1}=y_n%2B\dfrac{1}{6}\left(l_0%2B2l_1%2B2l_2%2Bl_3\right)">
 
 y
 
-<img src="https://render.githubusercontent.com/render/math?math=u_{n+1}=u_n\frac{1}{6}\left(k_0+2k_1+2k_2+k_3\right)">
+<img src="https://render.githubusercontent.com/render/math?math=u_{n%2B1}=u_n\frac{1}{6}\left(k_0%2B2k_1%2B2k_2%2Bk_3\right)">
 
 

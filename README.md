@@ -13,9 +13,9 @@ sea <img src="https://render.githubusercontent.com/render/math?math=u'(t)=y(t)">
 
 entonces
 
-\begin{equation}
+https://latex.codecogs.com/gif.latex?y_%7Bn&plus;1%7D%3Dy_n&plus;%5Cdfrac%7B1%7D%7B6%7D%5Cleft%28l_0&plus;2l_1&plus;2l_2&plus;l_3%5Cright%29
 y_{n+1}=y_n+\dfrac{1}{6}\left(l_0+2l_1+2l_2+l_3\right)
-\end{equation}
+
 
 $$
 l_0=h\left(\dfrac{1}{\lambda}-u_n+3\dfrac{r_g}{2}u_n^2\right)

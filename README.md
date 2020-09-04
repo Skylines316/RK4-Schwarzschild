@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # RK4-Schwarzschild
 An numerical solution to space-like geodesics of the Schwarzschild Solution
 

@@ -1,5 +1,5 @@
 # RK4-Schwarzschild
-A numerical solution to space-like geodesics of the Schwarzschild Solution
+A numerical solution to space-like geodesics of the Schwarzschild Solution, probando git.
 
 Tenemos la siguiente ecuación
 
